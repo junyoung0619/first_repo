@@ -88,7 +88,7 @@ else:
 ![cloud](./img.jpg)
 * 이미지의 크기 조정은 markdown문법은지원하지 않음
     * html을 사용해서 조정할 수는 있음
-<img src="0711-Day2\img.jpg",width="100">
+<img src="C:/Users/Startcamp/0711-Day2/img.jpg" width="100">
 
 ---
 # 텍스트 스타일링 
